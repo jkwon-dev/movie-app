@@ -1,7 +1,7 @@
 ## Movie app
 
-    * This is clone coding with React
+- This is clone coding with React
 
 ## Reference
 
-    * Nomad coders
+- Nomad coders
