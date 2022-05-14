@@ -27,7 +27,7 @@ function Home() {
                   key={movie.id}
                   coverImage={movie.medium_cover_image}
                   title={movie.title}
-                  summary={movie.suammry}
+                  summary={movie.summary}
                   genres={movie.genres}
                 />
           )}
